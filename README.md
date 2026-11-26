@@ -12,6 +12,7 @@
 | 프로그램 | 설명 | 받기 |
 |---|---|---|
 | EvLab Rename | 파일 이름 한꺼번에 바꾸기 | [최신 버전](https://github.com/evlabsystem-glitch/evlab/releases/tag/rename-v1.0.0) |
+| EvLab 대리영업관리 | 대리운전·콜 영업 기록과 정산 | [최신 버전](https://github.com/evlabsystem-glitch/evlab/releases/tag/daeri-v2.0.0) |
 
 ## 설치와 실행
 
