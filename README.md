@@ -13,6 +13,7 @@
 |---|---|---|
 | EvLab Rename | 파일 이름 한꺼번에 바꾸기 | [최신 버전](https://github.com/evlabsystem-glitch/evlab/releases/tag/rename-v1.0.0) |
 | EvLab Sheet | 엑셀·CSV 파일 합치기·정리·보고서 | [최신 버전](https://github.com/evlabsystem-glitch/evlab/releases/tag/sheet-v1.0.0) |
+| EvLab Voice | 녹음·영상을 글자로: 회의록·자막 만들기 | [최신 버전](https://github.com/evlabsystem-glitch/evlab/releases/tag/voice-v1.0.0) |
 | EvLab Drive | 대리운전·콜 영업 관리와 수당 정산 | [최신 버전](https://github.com/evlabsystem-glitch/evlab/releases/tag/drive-v2.1.0) |
 
 ## 설치와 실행
