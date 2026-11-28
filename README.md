@@ -11,12 +11,12 @@
 
 | 프로그램 | 설명 | 받기 |
 |---|---|---|
-| EvLab Rename | 파일 이름 한꺼번에 바꾸기 | [최신 버전](https://github.com/evlabsystem-glitch/evlab/releases/tag/rename-v1.0.1) |
-| EvLab Sheet | 엑셀·CSV 파일 합치기·정리·보고서 | [최신 버전](https://github.com/evlabsystem-glitch/evlab/releases/tag/sheet-v1.0.0) |
-| EvLab Voice | 녹음·영상을 글자로: 회의록·자막 만들기 | [최신 버전](https://github.com/evlabsystem-glitch/evlab/releases/tag/voice-v1.0.0) |
-| EvLab PDF | PDF 표를 엑셀로, 문서를 워드로 (스캔 PDF 포함) | [최신 버전](https://github.com/evlabsystem-glitch/evlab/releases/tag/pdf-v1.0.0) |
-| EvLab Cutout | 사진 배경 지우기 (상품·인물, 여러 장 한 번에) | [최신 버전](https://github.com/evlabsystem-glitch/evlab/releases/tag/cutout-v1.0.0) |
-| EvLab OCR | 그림·PDF 속 한글 글자를 텍스트로 | [최신 버전](https://github.com/evlabsystem-glitch/evlab/releases/tag/ocr-v1.0.0) |
+| EvLab Rename | 파일 이름 한꺼번에 바꾸기 | [최신 버전](https://github.com/evlabsystem-glitch/evlab/releases/tag/rename-v1.0.2) |
+| EvLab Sheet | 엑셀·CSV 파일 합치기·정리·보고서 | [최신 버전](https://github.com/evlabsystem-glitch/evlab/releases/tag/sheet-v1.0.1) |
+| EvLab Voice | 녹음·영상을 글자로: 회의록·자막 만들기 | [최신 버전](https://github.com/evlabsystem-glitch/evlab/releases/tag/voice-v1.0.1) |
+| EvLab PDF | PDF 표를 엑셀로, 문서를 워드로 (스캔 PDF 포함) | [최신 버전](https://github.com/evlabsystem-glitch/evlab/releases/tag/pdf-v1.0.1) |
+| EvLab Cutout | 사진 배경 지우기 (상품·인물, 여러 장 한 번에) | [최신 버전](https://github.com/evlabsystem-glitch/evlab/releases/tag/cutout-v1.0.1) |
+| EvLab OCR | 그림·PDF 속 한글 글자를 텍스트로 | [최신 버전](https://github.com/evlabsystem-glitch/evlab/releases/tag/ocr-v1.0.1) |
 | EvLab Drive | 대리운전·콜 영업 관리와 수당 정산 | [최신 버전](https://github.com/evlabsystem-glitch/evlab/releases/tag/drive-v2.1.0) |
 
 ## 설치와 실행
